@@ -12,25 +12,25 @@ namespace Strategy_DesignPattren.Calculation_Strategies
     }
     public class StrategyForCalculation
     {
-        public static ICalculation CalculationUsingStrategy(CalculationStrategy calculationStrategy)
+        public static ICalculation CalculationUsingStrategy(Calculationstrategy calculationstrategy)
         {
-            switch(calculationStrategy)
+            switch(calculationstrategy)
             {
-                case CalculationStrategy.AdditionStategy:
+                case Calculationstrategy.additionstategy:
                     return new Addition();
-                case CalculationStrategy.SubstractionStaregy:
+                case Calculationstrategy.substractionstaregy:
                     return new Substraction();
-                case CalculationStrategy.MultiplicationStrategy:
+                case Calculationstrategy.multiplicationstrategy:
                     return new Multiplication();
                 default:
                     throw new Exception();
             }
         }
     }
-    public enum CalculationStrategy
+    public enum Calculationstrategy
     {
-        AdditionStategy,
-        SubstractionStaregy,
-        MultiplicationStrategy
+        additionstategy,
+        substractionstaregy,
+        multiplicationstrategy
     }
 }
