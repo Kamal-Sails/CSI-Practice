@@ -1,0 +1,20 @@
+second commit
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+ On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   .vs/Strategy DesignPattren/v16/.suo
+#	modified:   Strategy DesignPattren/Calculation Strategies/ICalculation.cs
+#	modified:   Strategy DesignPattren/bin/Debug/net5.0/Strategy DesignPattren.dll
+#	modified:   Strategy DesignPattren/bin/Debug/net5.0/Strategy DesignPattren.pdb
+#	modified:   Strategy DesignPattren/bin/Debug/net5.0/ref/Strategy DesignPattren.dll
+#	modified:   Strategy DesignPattren/obj/Debug/net5.0/Strategy DesignPattren.dll
+#	modified:   Strategy DesignPattren/obj/Debug/net5.0/Strategy DesignPattren.pdb
+#	modified:   Strategy DesignPattren/obj/Debug/net5.0/ref/Strategy DesignPattren.dll
+#
+# Untracked files:
+#	"\357\200\272wq"
+#
